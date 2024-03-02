@@ -1,1 +1,1 @@
-asttokens=2.0.5
+asttokens==2.0.5
